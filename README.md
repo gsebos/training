@@ -34,10 +34,9 @@
 <details>
 <summary><em>Max Hang Protocol</em></summary>
 
-- 3 grip types × 3 sets  
-- Hang for 7 seconds, rest 3 seconds × 6 reps per set  
-- 3 minutes rest between sets  
-- Grip types: Open hand, half crimp  
+- Half crimp 
+- Hang for 7 seconds  
+- 3 minutes rest between sets   
 
 </details>
 
@@ -47,7 +46,6 @@
 - 3 grip types × 3 sets  
 - Hang for 7 seconds, rest 3 seconds × 6 reps per set  
 - 3 minutes rest between sets  
-- Focus on power endurance grip  
 
 </details>
 
